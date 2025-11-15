@@ -1,22 +1,14 @@
 baseURL = 'https://icya.pages.dev/'
-title = 'Home'
+title = 'Icy'
 theme = 'coder'
 languageCode = 'en'
 defaultContentLanguage = 'en'
-
-[markup]
-[markup.highlight]
-noClasses = false
-
-[markup.goldmark]
-[markup.goldmark.renderer]
-unsafe = true
 
 [params]
 author = "Icy"
 description = "An ambitious attempt"
 info = ["Fantastic Fantasist", "Student"]
-avatarURL = "images/avatar.webp"
+avatarURL = "images/teto.webp"
 colorScheme = "dark"
 
 [[params.social]]
