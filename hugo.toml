@@ -1,3 +1,59 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://icya.pages.dev/'
+title = 'Home'
+theme = 'coder'
+languageCode = 'en'
+defaultContentLanguage = 'en'
+
+[markup]
+[markup.highlight]
+noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+author = "Icy"
+description = "An ambitious attempt"
+info = ["Fantastic Fantasist", "Student"]
+avatarURL = "images/avatar.webp"
+colorScheme = "dark"
+
+[[params.social]]
+name = "Discord"
+icon = "fa-brands fa-discord fa-2x"
+weight = 1
+url = "https://discord.com/users/804037272890114108/"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 2
+url = "https://github.com/Icyvert/"
+
+[[params.social]]
+name = "Gitlab"
+icon = "fa-brands fa-gitlab fa-2x"
+weight = 3
+url = "https://gitlab.com/icyvert/"
+
+[[params.social]]
+name = "Reddit"
+icon = "fa-brands fa-reddit fa-2x"
+weight = 4
+url = "https://www.reddit.com/user/Icy687/"
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[menu.main]]
+name = "Contact"
+weight = 2
+url = "contact/"
+
+[[menu.main]]
+name = "Resources"
+weight = 3
+url = "resources/"

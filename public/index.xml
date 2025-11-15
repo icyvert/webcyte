@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sqK-jh4TDXo&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kasane Teto&lt;/a&gt; is a virtual singer software using voice synthesis software UTAU. The character was initially created as a joke for April Fools&amp;rsquo; Day 2008 on the Japanese textboard 2channel, but she was later made into an actual voicebank. Teto has been introduced as a &amp;ldquo;diva born from a hoax&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;Kasane Teto was also released as a voice model in 2021 for TALQu, a deep learning-based free speech software, in 2023 for Synthesizer V AI, a commercial singing voice synthesis software, and in 2025 for VOICEPEAK, a text-to-speech software.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;I am available on Discord - &lt;a href=&#34;https://discord.com/users/804037272890114108/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;icyvertt&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>http://localhost:1313/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://fmhy.net/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FMHY&lt;/a&gt; - Free Media Heck Yeah&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
