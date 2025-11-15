@@ -9,6 +9,7 @@ author = "Icy"
 description = "An ambitious attempt"
 info = ["Fantastic Fantasist", "Student"]
 avatarURL = "images/teto.webp"
+faviconsvg = "images/plane.svg"
 colorScheme = "dark"
 
 [[params.social]]
