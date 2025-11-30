@@ -8,52 +8,52 @@ defaultContentLanguage = 'en'
 author = "Icy"
 description = "An ambitious attempt"
 info = ["Fantastic Fantasist", "Student"]
-avatarURL = "images/avatar.webp"
+avatarURL = "images/ononoki.webp"
 faviconsvg = "favicon.svg"
 colorScheme = "dark"
 hideColorSchemeToggle = "false"
 
 [[params.social]]
-name = "Discord"
-icon = "fa-brands fa-discord fa-2x"
-weight = 1
-url = "https://discord.com/users/804037272890114108/"
-
-[[params.social]]
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
-weight = 2
-url = "https://github.com/Icyvert/"
+weight = 1
+url = "https://github.com/Icyvert"
 
 [[params.social]]
 name = "Gitlab"
 icon = "fa-brands fa-gitlab fa-2x"
-weight = 3
-url = "https://gitlab.com/icyvert/"
+weight = 2
+url = "https://gitlab.com/icyvert"
 
 [[params.social]]
 name = "MyAnimeList"
 icon = "fa-solid fa-book-bookmark fa-2x"
-weight = 4
-url = "https://myanimelist.net/profile/Icya/"
+weight = 3
+url = "https://myanimelist.net/profile/Icya"
 
 [[params.social]]
 name = "Reddit"
 icon = "fa-brands fa-reddit fa-2x"
+weight = 4
+url = "https://www.reddit.com/user/Icy687"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa-brands fa-x-twitter fa-2x"
 weight = 5
-url = "https://www.reddit.com/user/Icy687/"
+url = "https://x.com/Icyvertt"
 
 [[menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+url = "about"
 
 [[menu.main]]
 name = "Contact"
 weight = 2
-url = "contact/"
+url = "contact"
 
 [[menu.main]]
 name = "Resources"
 weight = 3
-url = "resources/"
+url = "resources"
