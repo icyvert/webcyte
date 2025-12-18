@@ -14,16 +14,16 @@ colorScheme = "dark"
 hideColorSchemeToggle = "false"
 
 [[params.social]]
-name = "Github"
+name = "GitHub"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
 url = "https://github.com/Icyvert"
 
 [[params.social]]
-name = "Gitlab"
-icon = "fa-brands fa-gitlab fa-2x"
+name = "Monkeytype"
+icon = "fa-solid fa-keyboard fa-2x"
 weight = 2
-url = "https://gitlab.com/icyvert"
+url = "https://monkeytype.com/profile/Icya"
 
 [[params.social]]
 name = "MyAnimeList"
